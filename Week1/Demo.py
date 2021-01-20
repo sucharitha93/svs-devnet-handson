@@ -1,4 +1,5 @@
 import this
 import json
 
-print("Hello World")
+print("DevNet session Week 1")
+print("This is a commit from Demo Week1")
