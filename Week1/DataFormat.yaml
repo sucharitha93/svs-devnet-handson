@@ -1,0 +1,12 @@
+---
+user:
+   name: Joey
+   location:
+      city: Chennai
+      state: Tamil Nadu
+      country: India
+    role:
+      - admin
+      - user
+---
+

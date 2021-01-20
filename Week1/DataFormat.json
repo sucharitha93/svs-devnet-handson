@@ -1,0 +1,14 @@
+{
+    "user": {
+        "name": "Joey",
+        "location":  {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India"
+        },
+        "roles": [
+            "admin",
+            "user"
+        ]
+    }
+}
