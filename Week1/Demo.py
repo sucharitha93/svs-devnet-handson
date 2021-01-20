@@ -39,17 +39,17 @@ class Intern(Contractor):
         
     
 
-a = Employee("Sucharitha", 27)
-print(a)
-print(a.age)
-print(a.name)
-a.getEmployeeDetails()
+BaseClassObject = Employee("Base Class Name", 27)
+print(BaseClassObject)
+print(BaseClassObject.age)
+print(BaseClassObject.name)
+BaseClassObject.getEmployeeDetails()
 
-b = FullTimeEmployee("Sucharitha", 27, "NCE")
-b.getEmployeeDetails()
+FullTimeEmployeeObject = FullTimeEmployee("Full time Name", 27, "NCE")
+FullTimeEmployeeObject.getEmployeeDetails()
 
-c = Contractor("Sucharitha", 27, "NCE")
-c.getEmployeeDetails()
+ContractorObject = Contractor("Contractor Name", 27, "NCE")
+ContractorObject.getEmployeeDetails()
 
-d = Intern("Sucharitha", 27)
-d.getEmployeeDetails()
+InternObject = Intern("Intern Name", 27)
+InternObject.getEmployeeDetails()
