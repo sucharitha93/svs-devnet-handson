@@ -1,0 +1,15 @@
+1. Create Repository: Login on github.com and create a new Repository
+2. Create a local folder and initialize git with main branch
+3. Add credentials
+4. Clone the repository to the local folder and verify remote origin
+5. Create a python script for "hello world" in this folder
+6. Commit the changes
+7. Push it to the remote repository
+8. create a new branch "json"
+9. move to branch "json"
+10. Modify the python file to add and print a sample json object
+11. Commit the changes
+12. Switch to the main branch
+13. Merge the two branches
+14. Use the git diff to check the differences in the python script
+15. Push the changes to the remote repo
